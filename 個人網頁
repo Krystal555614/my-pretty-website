@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit of website files"
+git remote add origin <您的 GitHub 儲存庫 URL>
+git push -u origin main
+# 您的分支名稱可能是 master 或 main
